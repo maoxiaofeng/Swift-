@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "102b98b9df276270e18ec39bb0000f2c"
+build_time: [550292311, 911146000]
+inputs:
+  "/Users/lvweifeng/Desktop/Swift\u5B66\u4E60/Swift\u5B66\u4E60/HomeVC.swift": !dirty [550292311, 0]
+  "/Users/lvweifeng/Desktop/Swift\u5B66\u4E60/Swift\u5B66\u4E60/ViewController.swift": !dirty [550292311, 0]
+  "/Users/lvweifeng/Desktop/Swift\u5B66\u4E60/Swift\u5B66\u4E60/AppDelegate.swift": [550291801, 0]
